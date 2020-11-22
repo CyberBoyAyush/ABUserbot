@@ -10,7 +10,7 @@
 ## Official Support💖
 <a href="https://t.me/AyushBots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
-### Host CBA - Userbot In Heroku (On Your Own Risk)
+### Host ABUserbot On Heroku (On Your Own Risk)
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CyberBoyAyush/ABUserbot)
 
