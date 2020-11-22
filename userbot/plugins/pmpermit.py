@@ -1,4 +1,4 @@
-#pmpermit for HellBot.....
+#pmpermit for ABUserbot.....
 
 import asyncio
 import io
@@ -16,7 +16,7 @@ PMPERMIT_PIC = os.environ.get("PMPERMIT_PIC", None)
 HELLPIC = (
     PMPERMIT_PIC
     if PMPERMIT_PIC
-    else "https://telegra.ph/file/8b086b95491df9f0d4f58.jpg"
+    else "https://telegra.ph/file/3783bd9bdde374797c704.jpg"
 )
 PM_WARNS = {}
 PREV_REPLY_MESSAGE = {}
