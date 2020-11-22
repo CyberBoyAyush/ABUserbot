@@ -19,7 +19,7 @@ IS_SELECTED_DIFFERENT_BRANCH = (
 OFFICIAL_UPSTREAM_REPO = Config.UPSTREAM_REPO
 BOT_IS_UP_TO_DATE = "**The ABUserbot** is up-to-date sur."
 NEW_BOT_UP_DATE_FOUND = (
-    "new update found for {branch_name}\n" "changelog: \n\n{changelog}\n" "updating your Hêllẞø† ..."
+    "new update found for {branch_name}\n" "changelog: \n\n{changelog}\n" "updating your AB Userbot ..."
 )
 NEW_UP_DATE_FOUND = "New update found for {branch_name}\n" "`updating your ABUserbot...`"
 REPO_REMOTE_NAME = "temponame"
@@ -136,7 +136,7 @@ def generate_change_log(git_repo, diff_marker):
 async def deploy_start(tgbot, message, refspec, remote):
     await message.edit(RESTARTING_APP)
     await message.edit(
-        "Updated your Hêllẞø† successfully sur!!!\nNow type `.ping` after 5 mins to check if I'm on🚶😏"
+        "Updated your AB Userbot successfully Sir!!!\nNow type `.ping` after 5 mins to check if I'm on🚶😏"
     )
     await remote.push(refspec=refspec)
     await tgbot.disconnect()
