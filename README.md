@@ -10,7 +10,9 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-## We Are Not Responsible For Any Banning Of Your Telegram Account So Deploy On Your Own Risk😒
+## Deploy On Your Own Risk🙄
+
+## Dont Forget To [🌟Star](https://github.com/CyberBoyAyush/ABUserbot/fork) and [🍴Fork](https://github.com/CyberBoyAyush/ABUserbot/fork) This Repo 💙
 
 ## Official Support💖
 <a href="https://t.me/AyushBots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
