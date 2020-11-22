@@ -5,7 +5,7 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/CyberBoyAyush/ABUserbot)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/CyberBoyAyush/ABUserbot)
-[![GitHub license](https://img.shields.io/github/license/CyberBoyAyush/ABUserbot.svg)](https://github.com/CyberBoyAyush/ABUserbot/blob/master/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/CyberBoyAyush/ABUserbot.svg)](https://github.com/CyberBoyAyush/ABUserbot/blob/master/LICENSE)
 [![Contribute](https://img.shields.io/badge/Contributions-Open-red)](https://github.com/CyberBoyAyush/ABUserbot/pulls)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
