@@ -17,13 +17,13 @@ kraken = bot.uid
 PM_IMG = "https://telegra.ph/file/3783bd9bdde374797c704.jpg"
 pm_caption = "__**🔥🔥ABUserbot Is Online🔥🔥**__\n\n"
 
-pm_caption += f"               __↼🄼🄰🅂🅃🄴🅁⇀__\n**『[{DEFAULTUSER}](tg://user?id={kraken})』**\n\n"
+pm_caption += f" __↼🄼🄰🅂🅃🄴🅁⇀__**『[{DEFAULTUSER}](tg://user?id={kraken})』**\n\n"
 
 pm_caption += "🛡️TELETHON🛡️ : `1.15.0` \n"
 
-pm_caption += f"😈Hêllẞø†😈       : `{hellversion}`\n"
+pm_caption += f"😈Version😈       : `{hellversion}`\n"
 
-pm_caption += f"⚜️Sudo⚜️            : `{sudou}`\n"
+pm_caption += f"⚜️Sudo⚜️          : `{sudou}`\n"
 
 pm_caption += "⚠️CHANNEL⚠️   : [ᴊᴏɪɴ](https://t.me/AyushBots)\n"
 
