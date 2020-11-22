@@ -39,7 +39,7 @@
     },
     "ALIVE_PHOTTO": {
       "description": "put here any telegraph media link for alive pic.",
-      "value": "",
+      "value": "https://telegra.ph/file/3783bd9bdde374797c704.jpg",
       "required": false
     },
     "BIO_MSG": {
@@ -49,7 +49,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for pmpermit custom pic.",
-      "value": "",
+      "value": "https://telegra.ph/file/3783bd9bdde374797c704.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -154,12 +154,12 @@
     },
     "NO_OF_BUTTONS_DISPLAYED_IN_H_ME_CMD": {
       "description": " Set The Amount Of Buttons Displayed In Help Command",
-      "value": "15"
+      "value": "15",
       "required": false
     },
     "NO_OF_COLUMS_DISPLAYED_IN_H_ME_CMD": {
       "description": "Set The Amount Of Rows You Want To Displayed In Help Command default 2",
-      "value": "2"
+      "value": "2",
       "required": false
     },
     "EMOJI_TO_DISPLAY_IN_HELP": {
