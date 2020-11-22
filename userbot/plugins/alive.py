@@ -14,7 +14,7 @@ else:
 
 kraken = bot.uid
 
-PM_IMG = "https://telegra.ph/file/80e5200c615cf0cb57aa9.mp4"
+PM_IMG = "https://telegra.ph/file/3783bd9bdde374797c704.jpg"
 pm_caption = "__**🔥🔥ABUserbot Is Online🔥🔥**__\n\n"
 
 pm_caption += f"               __↼🄼🄰🅂🅃🄴🅁⇀__\n**『[{DEFAULTUSER}](tg://user?id={kraken})』**\n\n"
