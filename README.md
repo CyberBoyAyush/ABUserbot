@@ -91,3 +91,6 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 ## Donate:
 [![Donate](https://img.shields.io/badge/Donate%20Us-UPI-orange?style=for-the-badge)](https://upayi.me/ayushsharma.fam@idfcbank)
+
+## License
+[![License](https://img.shields.io/badge/License-GPL--3.0-cgreen?style=flat-square&logo=git)](https://github.com/CyberBoyAyush/ABUserbot/blob/master/LICENSE)
