@@ -3,6 +3,11 @@
 <p align="center">
 <img src="https://telegra.ph/file/3783bd9bdde374797c704.jpg" alt="AB USERBOT">
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/CyberBoyAyush/ABUserbot)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/CyberBoyAyush/ABUserbot)
+[![GitHub license](https://img.shields.io/github/license/CyberBoyAyush/ABUserbot.svg)](https://github.com/CyberBoyAyush/ABUserbot/blob/master/LICENSE)
+[![Contribute](https://img.shields.io/badge/Contributions-Open-red)](https://github.com/CyberBoyAyush/ABUserbot/pulls)
+
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## We Are Not Responsible For Any Banning Of Your Telegram Account So Deploy On Your Own Risk😒
