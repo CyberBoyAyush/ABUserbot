@@ -76,7 +76,9 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 - The userbot will not work without setting the mandatory vars.
 
 ## Credits:
-Some Plugins Used In This Repo Are Copied From Someone's Repos So The Credits Of Their Plug-in Goes To Them🙂
+* [@CyberBoyAyush](https://GitHub.com/CyberBoyAyush)
+* [@XHackerzKali](https://t.me/XHackerzKali)
+* Some Plugins Used In This Repo Are Copied From Someone's Repos So The Credits Of Their Plug-in Goes To Them🙂
 
 ## Follow on:
 <p align="left">
