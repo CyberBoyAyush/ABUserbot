@@ -75,6 +75,9 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
     - `API_HASH`:   You can get this value from https://my.telegram.org
 - The userbot will not work without setting the mandatory vars.
 
+## Credits:
+Some Plugins Used In This Repo Are Copied From Someone's Repos So The Credits Of Their Plug-in Goes To Them🙂
+
 ## Follow on:
 <p align="left">
 <a href="https://telegram.me/AyushBots"><img src="https://img.shields.io/badge/Join%20Our%20Channel-Ayush%20Bots-darkblue?logo=telegram"></a>
